@@ -1,7 +1,5 @@
 # Consentium IoT
 
-![Consentium IoT Logo](https://consentiumiot.com/logo.png)
-
 **Consentium IoT** is an Industry 4.0 platform designed to seamlessly integrate process sensor data with an IoT developer cloud. It enables real-time data acquisition, analytics, and machine learning model deployment for industrial automation and smart monitoring applications.
 
 ## Features
