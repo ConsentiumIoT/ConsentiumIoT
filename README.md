@@ -1,16 +1,22 @@
-## Hi there 👋
+# Consentium IoT
 
-<!--
-**ConsentiumIoT/ConsentiumIoT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Consentium IoT Logo](https://consentiumiot.com/logo.png)
 
-Here are some ideas to get you started:
+**Consentium IoT** is an Industry 4.0 platform designed to seamlessly integrate process sensor data with an IoT developer cloud. It enables real-time data acquisition, analytics, and machine learning model deployment for industrial automation and smart monitoring applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Features
+- **Secure IoT Data Transmission:** Uses HTTPS for secure communication.
+- **Edge & Cloud Integration:** Supports edge devices like ESP32, Raspberry Pi, and industrial controllers.
+- **ML & AI Capabilities:** Integrates with **EdgeneuronAI** for edge intelligence and cloud-based MLOps.
+- **Sensor Data Processing:** Allows sensor data annotation, preprocessing, and model training.
+- **Real-Time Monitoring:** Dashboards for live data visualization and analytics.
+- **Custom API Support:** REST APIs for flexible device integration.
+
+## Contact
+For queries or support, reach out to us:
+- 🌐 Website: [Consentium IoT](https://consentiumiot.com)
+- 📧 Email: official@consentiumiot.com
+- 💼 LinkedIn: [Consentium IoT](https://linkedin.com/company/consentiumiot)
+
+---
+_Transforming Industrial IoT with AI & Secure Cloud Integration!_ 🚀
